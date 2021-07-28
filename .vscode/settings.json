@@ -1,0 +1,76 @@
+{
+  "editor.suggestSelection": "first",
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": 2,
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.fontFamily": "'Cascadia Code', JetBrains Mono, Consolas",
+  "editor.tabSize": 2,
+  "fixJson.indentationSpaces": 2,
+  "editor.fontLigatures": true,
+  "standard.engine": "standard",
+  "standard.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+  ],
+  "[javascript]": {
+      "editor.defaultFormatter": "standard.vscode-standard"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "standard.nodePath": "C:\\Users\\Leonardo\\AppData\\Roaming\\npm\\eslint",
+  "cSpell.words": [
+    "Adapter",
+    "Posts",
+    "Scrooll",
+    "aprenderas",
+    "copilot",
+    "corazon",
+    "csrf",
+    "donde",
+    "extends",
+    "filtered",
+    "firestore",
+    "hace",
+    "hero",
+    "indicator",
+    "leonardo",
+    "photo",
+    "props",
+    "roll",
+    "signin",
+    "subject",
+    "svgs",
+    "xlink"
+  ],
+  "standard.trace.server": "verbose",
+  "standard.options": {
+    "extends": [
+      "standard",
+      "standard-jsx",
+      "standard-react"
+    ],
+    "ignore": [
+     "node_modules/**"
+  ],
+    "parser": "@babel/eslint",
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "standard.autoFixOnSave": true,
+  "javascript.suggest.autoImports": true,
+  "[jsx-tags]": {},
+  "standard._legacyModuleResolve": true,
+  "json.format.enable": true,
+  "javascript.format.enable": true,
+  "standard.enable": true,
+  "javascript.format.semicolons": "remove",
+  "javascript.preferences.quoteStyle": "single",
+  "editor.defaultFormatter": "standard.vscode-standard",
+  "cSpell.userWords": [
+      "ALLTAG",
+      "Creado"
+  ]
+}
